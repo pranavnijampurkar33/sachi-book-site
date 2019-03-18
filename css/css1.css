@@ -138,21 +138,21 @@ html,body{
 }
 /*END WHY*/
 
-/*CUSTOMERS*/
-#customers {
+/*AUTHORS*/
+#authors {
     padding: 5rem 0;
     overflow: hidden;
 }
-#customers .carousel-indicators li{
+#authors .carousel-indicators li{
     background-color: #be2835;
 }
-#customers .carousel-inners {
+#authors .carousel-inners {
         margin-bottom: 50px;
 }
-#customers .carousel-indicators {
+#authors .carousel-indicators {
     margin-bottom: -50px;
 }
-/*END CUSTOMERS*/
+/*END AUTHORS*/
 
 /*CONTACT*/
 #contact {
